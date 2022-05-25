@@ -81,3 +81,17 @@
 |Layihənin linki: [Layihə](https://github.com/GulsenZalova/Vanilla-Javascript-Projects/tree/master/Color%20Flipper)|
 |:---------------------------------------------------------------------------------------:|
 |Layihədə istifadə olunan texnologiyalar: HTML,CSS,Javascript     )|
+  
+<div align="center">
+<details><summary><strong>Layihənin adı: Counter</strong></summary></details>
+
+|Layihənin linki: [Layihə](https://github.com/GulsenZalova/Vanilla-Javascript-Projects/tree/master/Counter)|
+|:---------------------------------------------------------------------------------------:|
+|Layihədə istifadə olunan texnologiyalar: HTML,CSS,Javascript     )|
+  
+<div align="center">
+<details><summary><strong>Layihənin adı: Review Carousel</strong></summary></details>
+
+|Layihənin linki: [Layihə](https://github.com/GulsenZalova/Vanilla-Javascript-Projects/tree/master/Review%20Carousel)|
+|:---------------------------------------------------------------------------------------:|
+|Layihədə istifadə olunan texnologiyalar: HTML,CSS,Javascript     )|
