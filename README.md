@@ -1,54 +1,54 @@
 # MyPortfolio
 
 <div align="center">
-<details><summary><strong>Web Elements</strong></summary></details>
+<details><summary><strong>Layihənin adı: Web Elements</strong></summary></details>
 
-|[Layihə](https://github.com/GulsenZalova/PragmatechFrontendProject/tree/main/WebElements)|
+|Layihənin linki: [Layihə](https://github.com/GulsenZalova/PragmatechFrontendProject/tree/main/WebElements)|
 |:---------------------------------------------------------------------------------------:|
-|İstifadə olunan texnologiyalar: HTML,CSS                                                 |
+|Layihədə istifadə olunan texnologiyalar: HTML,CSS                                                 |
   
 <div align="center">
-<details><summary><strong>ProductListUI</strong></summary></details>
+<details><summary><strong>Layihənin adı: ProductListUI</strong></summary></details>
 
-|[Layihə](https://github.com/GulsenZalova/PragmatechFrontendProject/tree/main/ProductListUI)|
+|Layihənin linki: [Layihə](https://github.com/GulsenZalova/PragmatechFrontendProject/tree/main/ProductListUI)|
 |:---------------------------------------------------------------------------------------:|
-|İstifadə olunan texnologiyalar: HTML,CSS                                                 |
+|Layihədə istifadə olunan texnologiyalar: HTML,CSS                                                 |
 
 <div align="center">
-<details><summary><strong>UtilityClassesInCSS</strong></summary></details>
+<details><summary><strong>Layihənin adı: UtilityClassesInCSS</strong></summary></details>
 
-|[Layihə](https://github.com/GulsenZalova/PragmatechFrontendProject/tree/main/UtilityClassesInCSS)|
+|Layihənin linki: [Layihə](https://github.com/GulsenZalova/PragmatechFrontendProject/tree/main/UtilityClassesInCSS)|
 |:---------------------------------------------------------------------------------------:|
-|İstifadə olunan texnologiyalar: HTML,CSS                                                 |
+|Layihədə istifadə olunan texnologiyalar: HTML,CSS                                                 |
   
  
 <div align="center">
-<details><summary><strong>ProductFeedbackUI</strong></summary></details>
+<details><summary><strong>Layihənin adı: ProductFeedbackUI</strong></summary></details>
 
-|[Layihə](https://github.com/GulsenZalova/PragmatechFrontendProject/tree/main/ProductFeedbackUI)|
+|Layihənin linki: [Layihə](https://github.com/GulsenZalova/PragmatechFrontendProject/tree/main/ProductFeedbackUI)|
 |:---------------------------------------------------------------------------------------:|
-|İstifadə olunan texnologiyalar: HTML,CSS,SCSS                                             |
+|Layihədə istifadə olunan texnologiyalar: HTML,CSS,SCSS                                             |
   
 <div align="center">
-<details><summary><strong>ProductFeedbackUIResponsive</strong></summary></details>
+<details><summary><strong>Layihənin adı: ProductFeedbackUIResponsive</strong></summary></details>
 
-|[Layihə](https://github.com/GulsenZalova/PragmatechFrontendProject/tree/main/ProductFeedbackUIResponsive)|
+|Layihənin linki: [Layihə](https://github.com/GulsenZalova/PragmatechFrontendProject/tree/main/ProductFeedbackUIResponsive)|
 |:---------------------------------------------------------------------------------------:|
-|İstifadə olunan texnologiyalar: HTML,CSS,SCSS                                             |
+|Layihədə istifadə olunan texnologiyalar: HTML,CSS,SCSS                                             |
   
 <div align="center">
-<details><summary><strong>Sass-Project</strong></summary></details>
+<details><summary><strong>Layihənin adı: Sass-Project</strong></summary></details>
 
-|[Layihə](https://github.com/GulsenZalova/Sass-Learning/tree/master/Sass-Project)|
+|Layihənin linki: [Layihə](https://github.com/GulsenZalova/Sass-Learning/tree/master/Sass-Project)|
 |:---------------------------------------------------------------------------------------:|
-|İstifadə olunan texnologiyalar: HTML,CSS,SCSS                                             |
+|Layihədə istifadə olunan texnologiyalar: HTML,CSS,SCSS                                             |
   
  <div align="center">
-<details><summary><strong>Sass-Project 2</strong></summary></details>
+<details><summary><strong>Layihənin adı: Sass-Project 2</strong></summary></details>
 
-|[Layihə](https://github.com/GulsenZalova/Sass-Learning/tree/master/Sass-Project%202)|
+|Layihənin linki: [Layihə](https://github.com/GulsenZalova/Sass-Learning/tree/master/Sass-Project%202)|
 |:---------------------------------------------------------------------------------------:|
-|İstifadə olunan texnologiyalar: HTML,CSS,SCSS                                             |
+|Layihədə istifadə olunan texnologiyalar: HTML,CSS,SCSS                                             |
   
 
 <div align="center">
