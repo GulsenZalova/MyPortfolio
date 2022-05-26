@@ -125,3 +125,10 @@
 |Layihənin linki: [Layihə](https://github.com/GulsenZalova/Javascript-learning/tree/master/Javascipt%20API/JSON)|
 |:---------------------------------------------------------------------------------------:|
 |Layihədə istifadə olunan texnologiyalar: HTML,CSS,Javascript     )|
+  
+<div align="center">
+<details><summary><strong>Layihənin adı: To Do List</strong></summary></details>
+
+|Layihənin linki: [Layihə](https://github.com/GulsenZalova/Javascript-learning/tree/master/Javascript%20DOM/To%20Do%20List)|
+|:---------------------------------------------------------------------------------------:|
+|Layihədə istifadə olunan texnologiyalar: HTML,CSS,Javascript     )|
